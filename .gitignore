@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.iml
+npm-debug.log
+.DS_Store
+NOTES
+*.sublime-*
+.sass-cache/
+.env
+
